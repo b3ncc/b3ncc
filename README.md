@@ -1,0 +1,7 @@
+- 👋 Hi, my name is b3ncc I learn a lot of programming languages, some of which are quite good.
+- 👀 I learning Discord.js, Java, Html language.
+- I think of the good ones are JavaScript (mostly making my discord bots)
+- Java (making Minecraft plugins),
+- Html (I mostly make website templates, but I usually make any website on demand)
+- 📫 Contact me if you have any questions!
+- Discord: wtfBence#7073
