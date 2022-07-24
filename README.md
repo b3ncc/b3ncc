@@ -4,4 +4,4 @@
 - Java (making Minecraft plugins),
 - Html (I mostly make website templates, but I usually make any website on demand)
 - 📫 Contact me if you have any questions!
-- Discord: wtfBence#7073
+- Discord: xb3n6e#6969
